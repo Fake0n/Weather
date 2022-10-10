@@ -1,0 +1,12 @@
+Collecting lxml
+  Using cached lxml-4.9.1.tar.gz (3.4 MB)
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
+Building wheels for collected packages: lxml
+  Building wheel for lxml (setup.py): started
+  Building wheel for lxml (setup.py): finished with status 'error'
+  Running setup.py clean for lxml
+Failed to build lxml
+Installing collected packages: lxml
+  Running setup.py install for lxml: started
+  Running setup.py install for lxml: finished with status 'error'
